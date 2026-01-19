@@ -1,4 +1,4 @@
-# ⚡ Multiverse Breach: Dimension Runner
+# Multiverse Breach⚡: Dimension Runner
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-prototype-orange)
 ![Tech Stack](https://img.shields.io/badge/Three.js-WebGL-black) ![Platform](https://img.shields.io/badge/platform-Mobile%20%7C%20Web-lightgrey)
