@@ -94,10 +94,9 @@ This project is a foundation for my research into Generative AI in Gaming.
  * [ ] GenAI Textures: Integration of Stable Diffusion API to generate unique obstacle textures in real-time based on the "Universe" selected.
  * [ ] Reinforcement Learning Agent: Training a PPO (Proximal Policy Optimization) agent to play the game and identify "impossible" obstacle patterns.
  * [ ] Backend Integration: Connecting to a Flask/Django backend to store high scores and user metrics.
-⚖️ License & Disclaimer
-License: MIT License. Feel free to fork and modify.
 
 Disclaimer: This project is a fan creation for educational purposes. "Iron Man", "Batman", and related characters are trademarks of Marvel Characters, Inc. and DC Comics respectively. No copyright infringement is intended.
+
 
 Developed by Syed Ismail Nasser
 Student @ IIIT Bangalore
